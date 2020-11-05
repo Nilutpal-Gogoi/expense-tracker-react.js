@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The project is deployed using Netlify [Click here for line demo](https://expense-tracker01-reactjs.netlify.app/).
+
 ## Available Scripts
 
 In the project directory, you can run:
