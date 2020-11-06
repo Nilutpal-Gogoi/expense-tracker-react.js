@@ -12,6 +12,6 @@ export const TransactionList = () => {
           <button className="delete-btn">x</button>
         </li>
       </ul>
-    </React.Fragment>
+    </React.Fragment> 
   )
 }
